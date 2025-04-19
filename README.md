@@ -27,7 +27,7 @@ I'm a first-year B.Tech student in Computer Science at SRMIST, Chennai, passiona
   
    LinkedIn: **www.linkedin.com/in/shrestha-verdhan-14b738323**
   
-   Instagram: **sth7rex**
+   Instagram: **@sth7rex**
   
 - 😄 Pronouns:He/Him
 - ⚡ Fun fact:.....

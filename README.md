@@ -18,7 +18,7 @@
 
 - ⚡ Fun fact **I enjoy experimenting with new recipes and cooking delicious meals. 🍳**
 
-Capturing beautiful moments through photography is one of my favorite hobbies. 📸**
+**Capturing beautiful moments through photography is one of my favorite hobbies. 📸**
 
 - 👨‍💻 All of my projects are available at **[https://shrestha-dev.vercel.app](https://shrestha-dev.vercel.app)**
 

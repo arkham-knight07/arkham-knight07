@@ -6,7 +6,7 @@
 
 - 🔭 I'm currently working on **Improving my skills , And learning more about the coding 😝 , And a random Idea**
 
-- 🌱 I'm currently learning **DSA in C++ **
+- 🌱 I'm currently learning **DSA in C++**
 
 - 👯 I'm looking to collaborate on **Open Source Projects**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **verdhanchiku@gmail.com**
 
-- ⚡ Fun fact **I enjoy experimenting with new recipes and cooking delicious meals. 🍳
+- ⚡ Fun fact **I enjoy experimenting with new recipes and cooking delicious meals. 🍳**
 
 Capturing beautiful moments through photography is one of my favorite hobbies. 📸**
 
